@@ -1,4 +1,4 @@
-package be.intecbrussel.springpetclinic.model;
+package be.intecbrussel.model;
 
 public class Person {
 
