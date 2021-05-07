@@ -49,7 +49,7 @@
         </pluginManagement>
     </build>
     <scm>
-        <developerConnection>scm:git:https://github.com/aliGanuz/spring-pet-clinic.git</developerConnection>
+        <developerConnection>https://aliGanuz@github.com/aliGanuz/spring-pet-clinic.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
