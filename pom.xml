@@ -14,7 +14,7 @@
     </parent>
     <groupId>be.intecbrussel</groupId>
     <artifactId>spring-pet-clinic</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>spring-pet-clinic</name>
     <description>Spring 5 Pet Clinic Project</description>
     <properties>
@@ -49,7 +49,7 @@
     </build>
     <scm>
         <developerConnection>https://aliGanuz@github.com/aliGanuz/spring-pet-clinic.git</developerConnection>
-        <tag>spring-pet-clinic-0.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
 </project>
